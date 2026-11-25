@@ -2,6 +2,12 @@
 
 An end-to-end Excel analysis of hotel booking data for a City Hotel and a Resort Hotel. The project covers data cleaning, formula-based analysis, pivot tables and a dashboard, and answers 8 business questions about booking performance and cancellations.
 
+
+## Dashboard Preview
+
+![Hotel Booking Performance Dashboard](dashboard.png)
+
+
 ## Project Overview
 
 Cancellations cost hotels revenue and make demand harder to plan. This project looks at **what drives bookings and cancellations** and suggests practical ways for hotel management to reduce cancellations and improve booking performance.
